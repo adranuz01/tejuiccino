@@ -1,7 +1,10 @@
 body{
     background-color: darkslategray;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: monospace;
     text-align: center;
+}
+.container{
+    background-color: whitesmoke;
 }
 h1{
     border:1px dotted black;
