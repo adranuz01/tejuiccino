@@ -1,4 +1,11 @@
 body{
     background-color: darkslategray;
-    
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+h1{
+    border:1px dotted black;
+}
+p{
+    /* border: 1px dotted black; */
 }
