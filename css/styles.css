@@ -1,11 +1,30 @@
-body{
-    background-color: darkslategray;
-    font-family: 'Courier New', Courier, monospace;
-    text-align: center;
+html,body{
+    background-color: rgb(233, 233, 233);
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
 }
+.cabecera{
+    margin: 10px;
+    background-color: #C1D2DC;
+    border-radius: 4px;
+    padding: 15px;
+    padding-top:3px;
+    box-shadow: 0px 6px 18px -2px rgba(0,0,0,0.29);
+}
+
 h1{
-    border:1px dotted black;
+    margin-top: 20px;
+    border-radius: 4px;
+    background-color: #0F4C58;
+    margin: 20px 20px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color:whitesmoke;
 }
 p{
-    /* border: 1px dotted black; */
+    border:2px dotted black;
+    background-color: rgba(233, 230, 230, .7);
+    border-radius: 4px;
+    padding: 4px;
 }
