@@ -20,8 +20,8 @@ h1{
     background-color: #0F4C58;
     padding: auto ;
     text-align: center;
-    font-family: 'Courier New', Courier, monospace;
-    color:whitesmoke;
+    font-family: 'Courier New';
+    color:pink;
 }
 p{
     border:2px dotted black;
